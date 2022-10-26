@@ -1,4 +1,5 @@
 first commit!
 second commit!
 Third commit!
-Last commit after stash!
+Last commit
+
